@@ -19,7 +19,8 @@ This directory records requirements, design decisions, diagrams, implementation 
 | [Non-Functional Requirements](03-non-functional-requirements.md) | Draft |
 | [Use Case Diagram](04-use-case-diagram.md) | Draft |
 | [Customer Booking Flow](05-customer-booking-flow.md) | Draft |
-| ER Diagram and Database Design | Planned |
+| [Backend Setup](06-backend-setup.md) | Setup guide |
+| [ER Diagram and Database Design](07-er-diagram-and-database-design.md) | Initial design finalized |
 | System Architecture | Planned |
 | API Design | Planned |
 | Concurrency Design | Planned |
